@@ -14,5 +14,4 @@ class Character < ApplicationRecord
   def to_s
     director_id
   end
-
 end
